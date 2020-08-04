@@ -1,0 +1,17 @@
+body{
+    background: #bdc3c7;
+    position: relative;
+    min-height: 100vh;
+}
+
+.logo-git{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
